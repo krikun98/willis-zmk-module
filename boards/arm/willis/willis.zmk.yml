@@ -1,0 +1,11 @@
+file_format: "1"
+id: willis
+name: Willis
+type: board
+arch: arm
+features:
+  - keys
+outputs:
+  - usb
+  - ble
+url: https://github.com/krikun98/willis
